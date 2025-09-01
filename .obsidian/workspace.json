@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "e68ccab4b8f01f2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f66b383047ef7d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "784b063e6ffe7eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "ce137801f173e864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/01- General Skills/01 - Lets Warm up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Lets Warm up"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "727b53ec2c8c3236",
+    "type": "split",
+    "children": [
+      {
+        "id": "2af55acb339232a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d0a0e9965963014",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "57e93e38a12da243",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "90d938913193f569",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1bc36e612cb4abc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9769dc828e10c1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb395d1d662f0c93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "picoCTF/01- General Skills/01 - Lets Warm up.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 01 - Lets Warm up"
+            }
+          },
+          {
+            "id": "d3e2680e5a116c0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "picoCTF/01- General Skills/01 - Lets Warm up.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 01 - Lets Warm up"
+            }
+          },
+          {
+            "id": "887a90ececa24752",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c343a654a0a84bd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "picoCTF/01- General Skills/01 - Lets Warm up.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 01 - Lets Warm up"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "ce137801f173e864",
+  "lastOpenFiles": [
+    "Pasted image 20250831235005.png",
+    "PLANTILLA.md",
+    "picoCTF/01- General Skills/01 - Lets Warm up.md",
+    "picoCTF/01- General Skills",
+    "picoCTF/Sin título.md",
+    "picoCTF",
+    "README.md",
+    "Bienvenido.md"
+  ]
+}
