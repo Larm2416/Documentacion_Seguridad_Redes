@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01- General Skills/01 - Lets Warm up.md",
+                "file": "picoCTF/01- General Skills/10-Nice netcat....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Lets Warm up"
+              "title": "10-Nice netcat..."
             }
           }
         ],
@@ -186,13 +186,22 @@
   },
   "active": "ce137801f173e864",
   "lastOpenFiles": [
-    "Pasted image 20250831235005.png",
     "PLANTILLA.md",
+    "picoCTF/01- General Skills/10-Nice netcat....md",
+    "picoCTF/01- General Skills/09-Glitch Cat.md",
+    "README.md",
+    "picoCTF/01- General Skills/08-plumbing.md",
+    "picoCTF/01- General Skills/07-what's a net cat.md",
+    "picoCTF/01- General Skills/06-Obedient Cat.md",
+    "picoCTF/01- General Skills/05-First Grep.md",
+    "picoCTF/01- General Skills/04-Bases.md",
+    "picoCTF/01- General Skills/02-2Warm.md",
+    "picoCTF/01- General Skills/03-Warmed Up.md",
     "picoCTF/01- General Skills/01 - Lets Warm up.md",
+    "Pasted image 20250831235005.png",
     "picoCTF/01- General Skills",
     "picoCTF/Sin título.md",
     "picoCTF",
-    "README.md",
     "Bienvenido.md"
   ]
 }
