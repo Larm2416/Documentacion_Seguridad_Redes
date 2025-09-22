@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF Web 1/06-Client-side-again.md",
+                "file": "picoCTF/picoCTF Web 2/Sin título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-Client-side-again"
+              "title": "Sin título"
             }
           }
         ],
@@ -187,7 +187,11 @@
   "active": "ce137801f173e864",
   "lastOpenFiles": [
     "PLANTILLA.md",
+    "picoCTF/picoCTF Web 2/Sin título.md",
+    "picoCTF/picoCTF Web 2/02-Cookies.md",
+    "picoCTF/picoCTF Web 2/01-GET aHEAD.md",
     "picoCTF/picoCTF Web 1/06-Client-side-again.md",
+    "picoCTF/picoCTF Web 2",
     "picoCTF/picoCTF Web 1/05-picobrowser.md",
     "picoCTF/picoCTF Web 1/04-dont-use-client-side.md",
     "picoCTF/picoCTF Web 1/03-logon.md",
@@ -211,9 +215,6 @@
     "picoCTF/03-General Skills/08-PW Crack 2.md",
     "picoCTF/03-General Skills/07-PW Crack 1.md",
     "picoCTF/03-General Skills/05-fixme1.py.md",
-    "picoCTF/03-General Skills/04-convertme.py.md",
-    "picoCTF/03-General Skills/03-Codebook.md",
-    "picoCTF/03-General Skills/02-runme.py.md",
     "picoCTF/03-General Skills",
     "Pasted image 20250903110514.png",
     "Pasted image 20250903110432.png",
