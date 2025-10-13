@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Primer Parcial - Parte 2 - Web/07-SSTI2.md",
+                "file": "picoCTF/Forensic Parte 3/05-MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07-SSTI2"
+              "title": "05-MacroHard WeakEdge"
             }
           }
         ]
@@ -171,14 +171,20 @@
   },
   "active": "7e999d8775a7fae9",
   "lastOpenFiles": [
+    "picoCTF/Forensic Parte 3/04-tunn3l_v1s10n.md",
+    "picoCTF/Forensic Parte 3/05-MacroHard WeakEdge.md",
+    "picoCTF/Forensic Parte 3/03-Matryoshka doll.md",
+    "picoCTF/Forensic Parte 3/02-WebNet1.md",
+    "picoCTF/Forensic Parte 3/01-WebNet0.md",
+    "PLANTILLA.md",
+    "picoCTF/Primer Parcial - Parte 2 - Web/07-SSTI2.md",
+    "picoCTF/Forensic Parte 3",
     "picoCTF/Primer Parcial - Parte 2 - Web/06-SQL Direct.md",
     "picoCTF/Primer Parcial - Parte 2 - Web/05-Java Code Analysis.md",
     "picoCTF/Primer Parcial - Parte 2 - Web/04-findme.md",
     "picoCTF/Primer Parcial - Parte 2 - Web/03-SSTI1.md",
     "picoCTF/Primer Parcial - Parte 2 - Web/02-Cookie Monster Secret Recipe.md",
     "picoCTF/Primer Parcial - Parte 2 - Web/01-Bookmarklet.md",
-    "picoCTF/Primer Parcial - Parte 2 - Web/07-SSTI2.md",
-    "PLANTILLA.md",
     "picoCTF/Primer Parcial - Parte 1 - General Skills/10-Specialer.md",
     "picoCTF/Primer Parcial - Parte 2 - Web",
     "picoCTF/Primer Parcial - Parte 1 - General Skills/09-SansAlpha.md",
@@ -193,14 +199,9 @@
     "picoCTF/Forensic Parte 2/02-like1000.md",
     "picoCTF/Forensic Parte 2/05-WhitePages.md",
     "picoCTF/Forensic Parte 2/04-shark on wire 2.md",
-    "picoCTF/Forensic Parte 2/03-m00nwalk.md",
-    "picoCTF/Forensic Parte 2/01-c0rrupt.md",
     "picoCTF/Forensic Parte 2",
     "picoCTF/Primer Parcial - Parte 1 - General Skills",
     "picoCTF/Sin título.canvas",
-    "picoCTF/Tarea 2 - Web/10-WebDecode.md",
-    "picoCTF/Tarea 2 - Web/09-Unminify.md",
-    "picoCTF/Tarea 2 - Web/04-Local Authority.md",
     "picoCTF/Tarea 2 - Web",
     "picoCTF/Foresinc",
     "Pasted image 20251001110152.png",
@@ -208,7 +209,6 @@
     "picoCTF/picoCTF Web 3",
     "picoCTF/picoCTF Web 2",
     "picoCTF/picoCTF Web 1",
-    "picoCTF/Tarea1-General Skills",
     "Pasted image 20250903110514.png",
     "Pasted image 20250903110432.png",
     "Pasted image 20250831235005.png"
