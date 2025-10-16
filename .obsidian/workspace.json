@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1f88b6bc6f90b31d",
+        "id": "f083992fceec7a00",
         "type": "tabs",
         "children": [
           {
-            "id": "7e999d8775a7fae9",
+            "id": "39272dba1165555a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic Parte 3/05-MacroHard WeakEdge.md",
+                "file": "picoCTF/Forensic Parte 4/06-Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-MacroHard WeakEdge"
+              "title": "06-Operation Oni"
             }
           }
         ]
@@ -169,14 +169,26 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "7e999d8775a7fae9",
+  "active": "39272dba1165555a",
   "lastOpenFiles": [
-    "picoCTF/Forensic Parte 3/04-tunn3l_v1s10n.md",
+    "picoCTF/Forensic Parte 4/05-Operation Orchid.md",
+    "picoCTF/Forensic Parte 4/06-Operation Oni.md",
+    "PLANTILLA.md",
+    "picoCTF/Forensic Parte 4/04-Sleuthkit Apprentice.md",
+    "picoCTF/Forensic Parte 4/03-Sleuthkit Intro.md",
+    "picoCTF/Forensic Parte 4/02-Disk, disk, sleuth!.md",
+    "picoCTF/Forensic Parte 4/01-Milkslap.md",
+    "picoCTF/Forensic Parte 4",
+    "picoCTF/flag in flame.md",
+    "PicoMini/Crack the Gate 1.md",
+    "PicoMini/Corrupted file.md",
+    "PicoMini",
+    "Sin título.base",
     "picoCTF/Forensic Parte 3/05-MacroHard WeakEdge.md",
+    "picoCTF/Forensic Parte 3/04-tunn3l_v1s10n.md",
     "picoCTF/Forensic Parte 3/03-Matryoshka doll.md",
     "picoCTF/Forensic Parte 3/02-WebNet1.md",
     "picoCTF/Forensic Parte 3/01-WebNet0.md",
-    "PLANTILLA.md",
     "picoCTF/Primer Parcial - Parte 2 - Web/07-SSTI2.md",
     "picoCTF/Forensic Parte 3",
     "picoCTF/Primer Parcial - Parte 2 - Web/06-SQL Direct.md",
@@ -190,15 +202,6 @@
     "picoCTF/Primer Parcial - Parte 1 - General Skills/09-SansAlpha.md",
     "picoCTF/Primer Parcial - Parte 1 - General Skills/08-flag_shop.md",
     "picoCTF/Primer Parcial - Parte 1 - General Skills/07-dont-you-love-banners.md",
-    "picoCTF/Primer Parcial - Parte 1 - General Skills/06-Rust fixme 3.md",
-    "picoCTF/Primer Parcial - Parte 1 - General Skills/05-Rust fixme 2.md",
-    "picoCTF/Primer Parcial - Parte 1 - General Skills/04-Rust fixme 1.md",
-    "picoCTF/Primer Parcial - Parte 1 - General Skills/03-Python Wrangling.md",
-    "picoCTF/Primer Parcial - Parte 1 - General Skills/02-HashingJobApp.md",
-    "picoCTF/Primer Parcial - Parte 1 - General Skills/01-FANTASY CTF.md",
-    "picoCTF/Forensic Parte 2/02-like1000.md",
-    "picoCTF/Forensic Parte 2/05-WhitePages.md",
-    "picoCTF/Forensic Parte 2/04-shark on wire 2.md",
     "picoCTF/Forensic Parte 2",
     "picoCTF/Primer Parcial - Parte 1 - General Skills",
     "picoCTF/Sin título.canvas",
@@ -206,9 +209,6 @@
     "picoCTF/Foresinc",
     "Pasted image 20251001110152.png",
     "picoCTF/picoCTF Web 4",
-    "picoCTF/picoCTF Web 3",
-    "picoCTF/picoCTF Web 2",
-    "picoCTF/picoCTF Web 1",
     "Pasted image 20250903110514.png",
     "Pasted image 20250903110432.png",
     "Pasted image 20250831235005.png"
