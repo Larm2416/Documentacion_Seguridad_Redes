@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Crypto - parte 2/01 - rsa pop quiz.md",
+                "file": "picoCTF/Tarea 3 - Forensic/10-flags are stepic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - rsa pop quiz"
+              "title": "10-flags are stepic"
             }
           }
         ]
@@ -171,8 +171,19 @@
   },
   "active": "39272dba1165555a",
   "lastOpenFiles": [
+    "picoCTF/Tarea 3 - Forensic/09-Ph4nt0m 1ntrud3r.md",
+    "picoCTF/Tarea 3 - Forensic/08-RED.md",
+    "picoCTF/Tarea 3 - Forensic/07-Secret of the Polyglot.md",
+    "picoCTF/Tarea 3 - Forensic/06-CanYouSee.md",
+    "picoCTF/Tarea 3 - Forensic/05-Scan Surprise.md",
+    "picoCTF/Tarea 3 - Forensic/04-hideme.md",
+    "picoCTF/Tarea 3 - Forensic/03-Redaction gone wrong.md",
+    "picoCTF/Tarea 3 - Forensic/02-St3g0.md",
+    "picoCTF/Tarea 3 - Forensic/01-information.md",
+    "picoCTF/Tarea 3 - Forensic/10-flags are stepic.md",
     "PLANTILLA.md",
     "picoCTF/Crypto - parte 2/01 - rsa pop quiz.md",
+    "picoCTF/Tarea 3 - Forensic",
     "picoCTF/Crypto - Parte 1/08-interencdec.md",
     "picoCTF/Crypto - parte 2",
     "picoCTF/Crypto - Parte 1/03-Cesar.md",
@@ -189,25 +200,14 @@
     "picoCTF/Forensic Parte 4/04-Sleuthkit Apprentice.md",
     "picoCTF/Forensic Parte 4/03-Sleuthkit Intro.md",
     "picoCTF/Forensic Parte 4/02-Disk, disk, sleuth!.md",
-    "picoCTF/Forensic Parte 4/01-Milkslap.md",
     "picoCTF/Forensic Parte 4",
-    "picoCTF/flag in flame.md",
-    "PicoMini/Crack the Gate 1.md",
-    "PicoMini/Corrupted file.md",
     "PicoMini",
     "Sin título.base",
-    "picoCTF/Forensic Parte 3/05-MacroHard WeakEdge.md",
-    "picoCTF/Forensic Parte 3/04-tunn3l_v1s10n.md",
-    "picoCTF/Forensic Parte 3/03-Matryoshka doll.md",
-    "picoCTF/Forensic Parte 3/02-WebNet1.md",
-    "picoCTF/Forensic Parte 3/01-WebNet0.md",
-    "picoCTF/Primer Parcial - Parte 2 - Web/07-SSTI2.md",
     "picoCTF/Forensic Parte 3",
     "picoCTF/Primer Parcial - Parte 2 - Web",
     "picoCTF/Forensic Parte 2",
     "picoCTF/Primer Parcial - Parte 1 - General Skills",
     "picoCTF/Sin título.canvas",
-    "picoCTF/Tarea 2 - Web",
     "Pasted image 20251001110152.png",
     "Pasted image 20250903110514.png",
     "Pasted image 20250903110432.png",
