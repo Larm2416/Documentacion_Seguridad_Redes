@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 4 -  Crypto/09-Vigenere.md",
+                "file": "picoCTF/Reversing-parte 1/04-vault-door-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-Vigenere"
+              "title": "04-vault-door-4"
             }
           }
         ]
@@ -171,10 +171,17 @@
   },
   "active": "2f4ff6d4152023c2",
   "lastOpenFiles": [
-    "picoCTF/Tarea 4 -  Crypto/08-substitution2.md",
+    "picoCTF/Reversing-parte 1/05-vault-door-5.md",
+    "picoCTF/Reversing-parte 1/02-vault-door-1.md",
+    "picoCTF/Reversing-parte 1/04-vault-door-4.md",
+    "picoCTF/Reversing-parte 1/03-vault-door-3.md",
+    "picoCTF/Reversing-parte 1/01-vault-door-training.md",
+    "PLANTILLA.md",
     "picoCTF/Tarea 4 -  Crypto/07-substitution1.md",
-    "picoCTF/Tarea 4 -  Crypto/06-substitution0.md",
+    "picoCTF/Reversing-parte 1",
     "picoCTF/Tarea 4 -  Crypto/09-Vigenere.md",
+    "picoCTF/Tarea 4 -  Crypto/08-substitution2.md",
+    "picoCTF/Tarea 4 -  Crypto/06-substitution0.md",
     "picoCTF/Tarea 4 -  Crypto/05-rail-fence.md",
     "picoCTF/Tarea 4 -  Crypto/04 -morse-code.md",
     "picoCTF/Tarea 4 -  Crypto/03-EVEN RSA CAN BE BROKEN.md",
@@ -186,7 +193,6 @@
     "picoCTF/Crypto - Parte 4/05-flags.md",
     "picoCTF/Tarea 4 -  Crypto/02-credstuff.md",
     "picoCTF/Tarea 4 -  Crypto/01-Crack the Power.md",
-    "PLANTILLA.md",
     "picoCTF/Tarea 4 -  Crypto",
     "picoCTF/Crypto - Parte 3/04-b00tl3gRSA3.md",
     "picoCTF/Crypto - Parte 4",
@@ -195,18 +201,12 @@
     "picoCTF/Crypto - Parte 3/02-Mind your Ps and Qs.md",
     "picoCTF/Crypto - Parte 3",
     "picoCTF/Tarea 3 - Forensic/10-flags are stepic.md",
-    "picoCTF/Tarea 3 - Forensic/09-Ph4nt0m 1ntrud3r.md",
-    "picoCTF/Tarea 3 - Forensic/08-RED.md",
-    "picoCTF/Tarea 3 - Forensic/07-Secret of the Polyglot.md",
-    "picoCTF/Tarea 3 - Forensic/06-CanYouSee.md",
-    "picoCTF/Tarea 3 - Forensic/05-Scan Surprise.md",
     "picoCTF/Tarea 3 - Forensic",
     "picoCTF/Crypto - parte 2",
     "picoCTF/Crypto - Parte 1",
     "picoCTF/Forensic Parte 4",
     "PicoMini",
     "Sin título.base",
-    "picoCTF/Forensic Parte 3",
     "picoCTF/Sin título.canvas",
     "Pasted image 20251001110152.png",
     "Pasted image 20250903110514.png",
